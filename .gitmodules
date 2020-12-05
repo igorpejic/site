@@ -1,0 +1,7 @@
+[submodule "themes/book"]
+	path = themes/book
+	url = https://github.com/alex-shpak/hugo-book
+[submodule "igorpejic.github.io"]
+	path = igorpejic.github.io
+	url = https://github.com/igorpejic/igorpejic.github.io.git
+	branch = main
