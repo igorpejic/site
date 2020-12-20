@@ -68,6 +68,8 @@ together with mentor drs. Daan van Den Berg.
 
 [Related news article](https://web.archive.org/web/20200714181206/https://ivi.uva.nl/content/news/2020/06/ai-master-student-igor-pejic-publishes-at-gecco.html)
 
+![GECCO2020](/igor_pejic_gecco.png)
+
 
 ## 2016 - Bachelor's degree, Computer science, summa cum laude
 
