@@ -9,6 +9,7 @@ I spend the most of my days building software, either by writing myself or helpi
 
 Unless I am building, I stay aways from screens as much as possible. I much rather read a book, or go for a walk.
 
+Below you can find a short history of myself.
 
 # Professional
 
@@ -81,7 +82,7 @@ together with mentor drs. Daan van Den Berg.
 # Personal
 
 ## 2013 - 1995
-Had a beautiful childhood in Croatia.
+Spent a great childhood in Croatia.
 
 I played various sports, but the one which proved to be the most engaging in the end was chess.
 Together with my team, Liburnia, I was junior national chess champion of Croatia 4 times.
