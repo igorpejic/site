@@ -21,8 +21,7 @@ It analyzes data from different testing sources, teacher observations and pupil 
 
 ## 2017-2019 | CTO, machine learning engineer | StoreDNA (ex. Monolith)
 
-[StoreDNA](https://storedna.co/)
-StoreDNA provides actionable insights which optimize retails store's traffic, conversion, revenue, and inventories.
+[StoreDNA](https://storedna.co/) provides actionable insights which optimize retails store's traffic, conversion, revenue, and inventories.
 
 ### CTO
 
@@ -65,7 +64,7 @@ StoreDNA provides actionable insights which optimize retails store's traffic, co
 ➤ Published scientific paper at GECCO2020 titled: "Monte carlo tree search on perfect rectangle packing problem instances" which was written as part of the master thesis 
 together with mentor drs. Daan van Den Berg.
 
-[Access to paper](https://dl.acm.org/doi/10.1145/3377929.3398115)
+[Link to paper](https://dl.acm.org/doi/10.1145/3377929.3398115)
 
 [Related news article](https://web.archive.org/web/20200714181206/https://ivi.uva.nl/content/news/2020/06/ai-master-student-igor-pejic-publishes-at-gecco.html)
 
