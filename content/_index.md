@@ -62,7 +62,7 @@ It analyzes data from different testing sources, teacher observations and pupil 
 ## 2020 - Master's degree, Artificial intelligence, cum laude
 
 ➤ Published scientific paper at GECCO2020 titled: "Monte carlo tree search on perfect rectangle packing problem instances" which was written as part of the master thesis 
-together with mentor drs. Daan van Den Berg.
+together with mentor drs. Daan van den Berg.
 
 [Link to paper](https://dl.acm.org/doi/10.1145/3377929.3398115)
 
