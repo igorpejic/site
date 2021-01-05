@@ -5,9 +5,9 @@ type: docs
 
 Welcome. I am Igor.
 
-I spend the most of my days building software, either by writing myself or helping teams.
+I spend the most of my days building software, either by coding myself or helping teams.
 
-Unless I am building, I stay aways from screens as much as possible. I much rather read a book, or go for a walk.
+Unless I am building, I stay away from screens as much as possible. I much rather read a book, or go for a walk.
 
 Below you can find a short history of myself.
 
