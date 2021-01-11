@@ -5,9 +5,9 @@ type: docs
 
 Welcome. I am Igor.
 
-I spend the most of my days building software, either by coding myself or helping teams.
+I spend most of my days building software, either by coding myself or helping teams.
 
-Unless I am building, I stay away from screens as much as possible. I much rather read a book, or go for a walk.
+Unless I am building, I stay away from screens as much as possible. I much rather read a book or go for a walk.
 
 Below you can find a short history of myself.
 
@@ -15,7 +15,7 @@ Below you can find a short history of myself.
 
 ## 2019-present | CTO, Lead engineer | Leeruniek
 
-[Leeruniek](https://leeruniek.nl) is an analyitcs dashboard for teachers in primary education.
+[Leeruniek](https://leeruniek.nl) is an analytics dashboard for teachers in primary education.
 It analyzes data from different testing sources, teacher observations and pupil performance helping the teachers perform better decisions.
 
 
@@ -61,7 +61,7 @@ It analyzes data from different testing sources, teacher observations and pupil 
 
 ## 2020 - Master's degree, Artificial intelligence, cum laude
 
-➤ Published scientific paper at GECCO2020 titled: "Monte carlo tree search on perfect rectangle packing problem instances" which was written as part of the master thesis 
+➤ Published scientific paper at GECCO2020 titled: "Monte Carlo tree search on perfect rectangle packing problem instances" which was written as part of the master thesis 
 together with mentor drs. Daan van den Berg.
 
 [Link to paper](https://dl.acm.org/doi/10.1145/3377929.3398115)
