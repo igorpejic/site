@@ -7,7 +7,7 @@ Welcome. I am Igor.
 
 I spend most of my days building software, either by coding myself or helping teams.
 
-Unless I am building, I stay away from screens as much as possible. I much rather read a book or go for a walk.
+My interests are in designing scalable systems, machine learning, algorithms and computer vision.
 
 Below you can find a short history of myself.
 
