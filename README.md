@@ -17,3 +17,6 @@ rm public
 git submodule init
 git submodule update
 ```
+
+
+The built code is available on igorpejic.github.io
