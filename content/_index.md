@@ -15,7 +15,9 @@ Below you can find a short history of myself.
 
 ## 2022-Present | Business/Solutions Engineer | Meta
 
-Business Messaing products on WhatsApp, Messenger and Instagram Direct.
+➤ Launching Beta products for Business Messaging on WhatsApp, Messenger and Instagram Direct.
+
+➤ Helping strategic partners in EMEA reach their goals through technical innovation.
 
 ![Meta](/igor_pejic_mpk.png)
 
