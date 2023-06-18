@@ -13,7 +13,13 @@ Below you can find a short history of myself.
 
 # Professional
 
-## 2019-present | CTO, Lead engineer | Leeruniek
+## 2022-Present | Business/Solutions Engineer | Meta
+
+Business Messaing products on WhatsApp, Messenger and Instagram Direct.
+
+![Meta](/igor_pejic_mpk.png)
+
+## 2019-2022 | CTO, Lead engineer | Leeruniek
 
 [Leeruniek](https://leeruniek.nl) is an analytics dashboard for teachers in primary education.
 It analyzes data from different testing sources, teacher observations and pupil performance helping the teachers perform better decisions.
