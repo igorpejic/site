@@ -9,7 +9,7 @@ I spend most of my days building software, either by coding myself or helping te
 
 My interests are in designing scalable systems, machine learning, algorithms and computer vision.
 
-Below you can find a short history of myself.
+Below you can find my brief history.
 
 # Professional
 
