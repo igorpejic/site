@@ -1,4 +1,4 @@
-Works with Hugo v0.80.0/extended installed with: `sudo snap install hugo --chanell=extended`
+Works with Hugo v0.113
 
 Run server:
 

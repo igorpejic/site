@@ -13,7 +13,7 @@ Below you can find my brief history.
 
 # Professional
 
-## 2022-Present | Business/Solutions Engineer | Meta
+## 2022-2023 | Business/Solutions Engineer | Meta
 
 ➤ Launching Beta products for Business Messaging on WhatsApp, Messenger and Instagram Direct.
 
