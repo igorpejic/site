@@ -5,3 +5,6 @@
 	path = public
 	url = https://github.com/igorpejic/igorpejic.github.io.git
 	branch = main
+[submodule "igorpejic.github.io"]
+	path = igorpejic.github.io
+	url = https://github.com/igorpejic/igorpejic.github.io.git
