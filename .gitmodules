@@ -3,5 +3,4 @@
 	url = https://github.com/alex-shpak/hugo-book
 [submodule "public"]
 	path = public
-	url = https://github.com/igorpejic/igorpejic.github.io.git
-	branch = main
+	url = ../igorpejic.github.io.git
