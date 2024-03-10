@@ -1,4 +1,15 @@
-# Tools I enjoy
+---
+author: "Igor Pejic"
+date: 2024-03-09
+linktitle: Tools I enjoy
+menu:
+  main:
+    parent: tutorials
+next: /tutorials/github-pages-blog
+prev: /tutorials/automated-deployments
+title: Tools I enjoy
+weight: 10
+---
 
 > Tools amplify your talent. The better your tools, and the better you know how to use them, the more productive you can be.
 
