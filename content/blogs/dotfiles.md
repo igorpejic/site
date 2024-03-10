@@ -22,3 +22,48 @@ In Linux, hidden files are identified with a leading dot (`.`). Since the config
 
 For an up to date list of tools and configuration files, see:
 https://github.com/igorpejic/dotfiles
+
+
+---
+
+### Remapping Caps Lock to Windows (Mod) key {#xmodmap}
+
+> I wish to arbitrarily remap keys to different functions at a low-level.
+
+Touch-typing means fingers are on the home row most of the time.
+
+Using i3 window manager, modifier key is a central key for navigating / executing.
+For comfort, I rather have the modifier key be in their line than to have to move the pinkie south-east to press the windows key.
+
+Therefore, disable Caps Lock and make it into the Windows key.
+
+`.Xmodmap`
+```bash
+! maps caps lock into "WIN_KEY"
+clear control
+keycode 66 = Super_L
+add control = Control_L Control_R
+clear lock
+```
+
+and activate it with:
+```
+xmodmap ~/.Xmodmap
+```
+
+### Seamless switching between docked / mobile modes
+
+> I wish plugging in monitors / keyboards to work out of the box.
+
+When I plug in the laptop into a docking station, I wish the screens to automatically get set to the correct resolutions and position.
+I also wish the keyboard layout to be [correctly configured](#xmodmap).
+
+[Autorandr](https://github.com/phillipberndt/autorandr) is a great tool which can automatically select a display configuration based on the connected devices.
+
+It also offers a `postswitch` event firing after the display get auto-changed, to which we can link the keyboard mapping changes:
+
+`~/.config/autorandr/postswitch`
+
+```bash
+xmodmap ~/.Xmodmap
+```
