@@ -1,4 +1,4 @@
-baseURL = "https://igorpejic.github.io/"
+baseURL = "https://igorpejic.com"
 languageCode = "en-us"
 title = "Igor Pejic's Blog"
 theme = "archie"
@@ -17,6 +17,7 @@ useCDN = false # don't use CDNs for fonts and icons, instead serve them locally.
 # subtitle = "Personal blog and portfolio"
 mathjax = true # enable MathJax support
 katex = true # enable KaTeX support
+customcss = ["css/custom.css"]
 
 # Social Tags
 [[params.social]]
