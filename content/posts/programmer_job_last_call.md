@@ -2,9 +2,6 @@
 author: "Igor Pejic"
 date: 2024-10-09
 linktitle: "Last Call for Programmers Jobs: Is It Time to Rethink Your Career?"
-menu:
-  main:
-    parent: tutorials
 title: "Last Call for Programmer Jobs"
 weight: 10
 ---
@@ -47,10 +44,9 @@ Similarly, Google searches for programming-related queries have also seen a nota
 Meanwhile, new AI-powered tools like [Replit](https://replit.com/), [OpenAI Canvas](https://openai.com/index/introducing-canvas/), [Cursor](https://cursor.com/), [Claude Artifacts](https://support.anthropic.com/en/articles/9487310-what-are-artifacts-and-how-do-i-use-them), [v0](https://v0.dev/chat), and [GitHub Copilot](https://copilot.github.com/) are emerging as the new hubs for development and collaboration. These platforms are leveraging AI to enhance productivity and innovation, potentially accelerating the shift away from traditional programming resources and communities that were once dominated by platforms like Stack Overflow and search engines.
 
 
-<div style="text-align: center;">
-  <img src="/stackoverflow_trend.png" alt="Stack Overflow number of posts trend">
-  <p><em>Declining trend in Stack Overflow post numbers</em></p>
-</div>
+![Stack Overflow number of posts trend](/stackoverflow_trend.png)
+
+*Declining trend in Stack Overflow posts*
 
 
 ### Traditional vs. "SV-like" programmers
@@ -84,11 +80,9 @@ Candidates are increasingly using AI tools during interviews. As highlighted in 
 We might see tests for electronic devices before entering the interview room similar to the ones we are seeing for professional chess players before entering an event.
 
 
-<div style="text-align: center;">
-  <img src="/chess_scan.webp" alt="Chess player scanned for electronic device before entering the playing hall">
-  <p><em>Chess player scanned for electronic device before entering the playing hall</em></p>
-</div>
+![Chess player scanned for electronic device before entering the playing hall](/chess_scan.webp)
 
+*Chess player scanned for electronic device before entering the playing hall*
 
 
 

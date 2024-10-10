@@ -2,10 +2,7 @@
 author: "Igor Pejic"
 date: 2024-05-17
 linktitle: "Django InterfaceError: Connection already closed"
-menu:
-  main:
-    parent: tutorials
-title: Tools I enjoy
+title: "Django InterfaceError: Connection already closed"
 weight: 10
 ---
 ## Background
