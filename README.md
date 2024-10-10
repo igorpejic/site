@@ -11,7 +11,7 @@ This site works with Hugo v0.113 or later.
 To run the development server:
 
 ```bash
-hugo server --theme archie
+hugo server --config config.toml
 ```
 
 ### Deployment
@@ -34,24 +34,31 @@ git submodule update
 ## Directory Structure
 
 ```
-.
 ├── archetypes
-│   └── default.md
-├── config.yaml
+│   └── default.md
+├── assets
+│   └── css
+├── config.toml
 ├── content
-│   ├── _index.md
-│   ├── about.md
-│   ├── contact.md
-│   ├── online_presence.md
-│   └── posts
+│   ├── about.md
+│   ├── contact.md
+│   ├── _index.md
+│   ├── menu
+│   └── posts
 ├── data
-│   └── static
+│   └── static
 ├── deploy.sh
+├── go.mod
+├── go.sum
+├── layouts
+│   └── partials
+├── public
+├── README.md
+├── resources
+│   └── _gen
 ├── static
-│   └── images
-├── themes
-│   └── archie
-└── README.md
+└── themes
+    └── archie
 ```
 
 ## Theme
