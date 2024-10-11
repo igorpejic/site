@@ -74,19 +74,6 @@ Traditional programmers must now focus on developing skills that AI can't easily
 
 Despite the critical role of software engineers, the [number of tech jobs is stagnant](https://www.trueup.io/job-trend). Coupled with increasing layoffs, as documented on [Layoffs.fyi](https://layoffs.fyi/), job security in traditional programming roles is becoming precarious. The once-booming demand for developers is cooling, signaling a potential downturn for those who haven't adapted.
 
-### The Impact of AI on Hiring Practices
-
-Candidates are increasingly using AI tools during interviews. As highlighted in [this Twitter thread](https://x.com/thegregyang/status/1843129139366437109), the use of AI in preparing for interviews poses a challenge: distinguishing between traditional candidates and those leveraging AI. This trend may drive companies to revert to real on-site interviews or develop new methods to assess genuine skills and capabilities.
-
-We might see tests for electronic devices before entering the interview room similar to the ones we are seeing for professional chess players before entering an event.
-
-
-![Chess player scanned for electronic device before entering the playing hall](/chess_scan.webp)
-
-*Chess player scanned for electronic device before entering the playing hall*
-
-
-
 Ultimately, the ability to perform the same job efficiently, whether aided by AI or not, raises the question: _"Does it even matter if both can do the same job?"_
 
 
