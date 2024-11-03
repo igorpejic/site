@@ -1,23 +1,37 @@
+:root {
+  --mainColor: #b1beff;
+  --bordercl: #7a2f2f;
+}
+
+:root {
+  --maincolor: var(--mainColor);
+}
+
 h1::before {
   color: var(--darkMaincolor);
   content: "";
 }
+
 h2::before {
   color: var(--darkMaincolor);
   content: "";
 }
+
 h3::before {
   color: var(--darkMaincolor);
   content: "";
 }
+
 h4::before {
   color: var(--darkMaincolor);
   content: "";
 }
+
 h5::before {
   color: var(--darkMaincolor);
   content: "";
 }
+
 h6::before {
   color: var(--darkMaincolor);
   content: "";
@@ -44,10 +58,7 @@ h4 {
   margin-top: 1.5em;
 }
 
-:root {
-  --mainColor: #ab5b5b;
-  --bordercl: #7a2f2f;
-}
+
 
 body {
   --darkMaincolor: var(--mainColor);
@@ -57,8 +68,7 @@ body.dark {
   --darkMaincolor: var(--mainColor);
 }
 
-ul > li::before {
-    content: " ";
-
-    font-weight: bold;
+ul>li::before {
+  content: " ";
+  font-weight: bold;
 }
