@@ -1,8 +1,8 @@
 ---
 author: "Igor Pejic"
 date: 2024-10-09
-linktitle: "Last Call for Programmers Jobs: Is It Time to Rethink Your Career?"
-title: "Last Call for Programmer Jobs"
+linktitle: "Software Engineering in the age of LLMs"
+title: "Software Engineering in the age of LLMs"
 weight: 10
 ---
 
